@@ -1,8 +1,8 @@
-#About
+##About
 👨‍💻 Owner | Senior Software Developer | Senior AWS Cloud Admin 🌩️
 Passionate about crafting scalable solutions in the cloud and writing clean, efficient code. Experienced in building robust software architectures and managing cloud infrastructures on AWS. Constantly learning and adapting to new technologies to deliver innovative solutions. Let's connect and build something amazing together! 🚀
 
-#Skills:
+##Skills:
 - Software Development
 - AWS Cloud Administration
 - Scalable Architectures
