@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @ralfdba
-- 👀 I’m interested in Data Analysis
-- 📫 How to reach me codingwithmycat at gmail.com
+#About
+👨‍💻 Owner | Senior Software Developer | Senior AWS Cloud Admin 🌩️
+Passionate about crafting scalable solutions in the cloud and writing clean, efficient code. Experienced in building robust software architectures and managing cloud infrastructures on AWS. Constantly learning and adapting to new technologies to deliver innovative solutions. Let's connect and build something amazing together! 🚀
 
-<!---
-ralfdba/ralfdba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Skills:
+- Software Development
+- AWS Cloud Administration
+- Scalable Architectures
+- DevOps
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Containerization (Docker, Kubernetes)
+- Serverless Computing
+- Infrastructure as Code (Terraform, CloudFormation)
+- Agile Methodologies
