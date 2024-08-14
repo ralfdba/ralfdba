@@ -15,4 +15,4 @@ Passionate about crafting scalable solutions in the cloud and writing clean, eff
 - Increase productivity: Improve your teams' efficiency and foster a motivating work environment.
 - Make better decisions: Plan your company's future with data-driven talent management.
 
-[https://vust.me] Vust.Me website
+[Vust.Me website](https://vust.me)
